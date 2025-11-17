@@ -21,6 +21,7 @@ public class SentinelSum
          number = scan.nextInt();
       
       }
+      
       System.out.println("Sum is " + sum);
    }
 }
